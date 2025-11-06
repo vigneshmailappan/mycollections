@@ -12,4 +12,4 @@
 | **7b** | Verb – naa + nay dheejeeye | Ask opponent to let you/others do the action (respectful) | Jaanaa → jaa nay dheejeeye (போக விடுங்க)<br>Bolnaa → bol nay dheejeeye (சொல்ல விடுங்க)<br>Padnaa → pad nay dheejeeye (படிக்க விடுங்க) |
 | **8** | Verb + padaygaa | Means “ஆகணும்” (must/should) | Karnaa → karnaa padaygaa (செய்தாகணும்)<br>Jaanaa → jaanaa padaygaa (போயாகணும்)<br>Chalnaa → chalnaa padaygaa (போயாகணும்) |
 | **9** | Verb + paduthaa hei | Means “வேண்டி இருக்கு” | Chalnaa → chalnaa padutha hei (போக வேண்டி இருக்கு)<br>Karnaa → karnaa padutha hei (செய்ய வேண்டி இருக்கு) |
-| **10** | Verb – naa + Verb – naa + ke | அடுக்கு மொழி (repetitive action) | Goomnaa → goomu goomu kay (சுத்திகிட்டு சுத்திகிட்டு)<br>Bytnaa → bytu bytu kay (உக்காந்து உக்காந்து)<br>Kaanaa → kaa kaa kay (சாப்பிட்டு சாப்பிட்டு) |
+| **10** | Verb – naa + Verb – naa + ke | அடுக்கு மொழி (repetitive action),இரட்டைக்கிளவி | Goomnaa → goom goom kay (சுத்திகிட்டு சுத்திகிட்டு)<br>Bytnaa → byt byt kay (உக்காந்து உக்காந்து)<br>Kaanaa → kaa kaa kay (சாப்பிட்டு சாப்பிட்டு) |
