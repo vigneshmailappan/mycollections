@@ -1,0 +1,15 @@
+# ✅ Hindi-via-Tamil Verb Transformation Formulas
+
+| **S.No** | **Formula** | **Meaning** | **Examples** |
+|----------|-------------|-------------|--------------|
+| **1** | **Verb – naa + ஓ (oo)** | Ask someone to do that action | Karnaa (செய்தல்) → karo (செய்)<br>Jaanaa (போதல்) → jao (போ)<br>Aanaa (வருதல்) → aao (வா)<br>**Exceptions:**<br>Dheynaa → dheydho (கொடு)<br>Laynaa → laylo (எடு)<br>Kehanaa → kaho (சொல்லு) |
+| **2** | **Verb – naa + யியே (yeeye)** | Respectfully ask someone to do that action | Jaanaa → jayeeye (போ)<br>Aanaa → aayeeye (வா)<br>Barnaa → baryeeye (நிரப்புங்கள்)<br>**Exceptions:**<br>Dheynaa → dheejeeye (கொடுங்க)<br>Laynaa → leejeeye (எடுங்க)<br>Kehanaa → kaheeye (சொல்லுங்க)<br>Karnaa → keejeeye (செய்யுங்க)<br>Peenaa → peejeeye (குடிங்க) |
+| **3** | **Verb – naa + க்கே (kay)** | To say “ட்டு” | Jaanaa → jaakay (போயிட்டு)<br>Aanaa → aakay (வந்துட்டு)<br>Bayjnaa → bayjkay (அனுப்பிட்டு) |
+| **4** | **Verb – naa + ஊNG (oong)** | To say “ட்டுமா” or “ட்டும்” | Jaanaa → jaoong (போயிட்டு)<br>Aanaa → aaoong (வந்துட்டு)<br>Barnaa → baroong (நிரப்பிட்டு) |
+| **5** | **Verb – naa + aeng (hain)** | To say “லாமா” (like போகலாமா) | Karnaa → kareeng (செய்யலாமா)<br>Jaanaa → jaayeng (போகலாமா)<br>Aanaa → aaeng (வரலாமா)<br>**Exceptions:**<br>Dheynaa → dheydheyeng (கொடுக்கலாமா)<br>Laynaa → laylayeng (எடுக்கலாமா) |
+| **6** | **Verb – naa + த்தே சமய்** | Means “அந்த சமயத்தில்” | Aanaa → aathe samay (வரும்போது)<br>Jaanaa → jathe samay (போகும்போது) |
+| **7a** | **Verb – naa + nay dho** | Ask opponent to let you/others do the action (casual) | Jaanaa → jaa nay dho (போக விடு)<br>Bolnaa → bol nay dho (சொல்ல விடு)<br>Padnaa → pad nay dho (படிக்க விடு) |
+| **7b** | **Verb – naa + nay dheejeeye** | Ask opponent to let you/others do the action (respectful) | Jaanaa → jaa nay dheejeeye (போக விடுங்க)<br>Bolnaa → bol nay dheejeeye (சொல்ல விடுங்க)<br>Padnaa → pad nay dheejeeye (படிக்க விடுங்க) |
+| **8** | **Verb + padaygaa** | Means “ஆகணும்” (must/should) | Karnaa → karnaa padayga (செய்யாகணும்)<br>Jaanaa → jaanaa padayga (போகாகணும்)<br>Chalnaa → chalnaa padayga (நடக்காகணும்) |
+| **9** | **Verb + paduthaa hei** | Means “வேண்டி இருக்கு” | Chalnaa → chalnaa padutha hei (போக வேண்டி இருக்கு)<br>Karnaa → karnaa padutha hei (செய்ய வேண்டி இருக்கு) |
+| **10** | **Verb – naa + Verb – naa + ke** | அடுக்கு மொழி (repetitive action) | Goomnaa → goomu goomu kay (சுத்திகிட்டு சுத்திகிட்டு)<br>Bytnaa → bytu bytu kay (உக்காந்து உக்காந்து)<br>Kaanaa → kaa kaa kay (சாப்பிட்டு சாப்பிட்டு) |
