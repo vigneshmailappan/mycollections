@@ -13,3 +13,5 @@
 | **8** | Verb + padaygaa | Means “ஆகணும்” (must/should) | Karnaa → karnaa padaygaa (செய்தாகணும்)<br>Jaanaa → jaanaa padaygaa (போயாகணும்)<br>Chalnaa → chalnaa padaygaa (போயாகணும்) |
 | **9** | Verb + paduthaa hei | Means “வேண்டி இருக்கு” | Chalnaa → chalnaa padutha hei (போக வேண்டி இருக்கு)<br>Karnaa → karnaa padutha hei (செய்ய வேண்டி இருக்கு) |
 | **10** | Verb – naa + Verb – naa + ke | அடுக்கு மொழி (repetitive action),இரட்டைக்கிளவி | Goomnaa → goom goom kay (சுத்திகிட்டு சுத்திகிட்டு)<br>Bytnaa → byt byt kay (உக்காந்து உக்காந்து)<br>Kaanaa → kaa kaa kay (சாப்பிட்டு சாப்பிட்டு) |
+| **11** | Verb – naa + nay ko dhil/mann karthaa hei | “போல இருக்கு” – feel like doing that verb | Peenaa (குடித்தல்) → peenay ko dhil karthaa hei (குடிக்கணும் போல இருக்கு)<br>Jaanaa (போதல்) → janay ko dhil karthaa hei (போகணும் போல இருக்கு)<br>Kaanaa (சாப்பாடு / சாப்பிடுதல்) → janay ko dhil nahi karthaa hei (சாப்பிடணும் போல இல்ல) |
+| **12** | Verb – naa + நே சே | “If” in English (like ‘வந்தால்’, ‘போனால்’) | Peenaa (குடித்தல்) → peenay say (குடித்தால்)<br>Jaanaa (போதல்) → janay say (போனால்)<br>Kaanaa (சாப்பாடு / சாப்பிடுதல்) → janay say (சாப்பிட்டால்) |
